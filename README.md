@@ -14,10 +14,10 @@ The work that shows what kind of website a company which sells dessert should ha
 
 ## Link
 You can access the website from this link;
-https://modern-arc.netlify.app/
+https://grandmas-sweet.netlify.app/
 
 ## Screenshots
-https://user-images.githubusercontent.com/73755991/102696006-3e8f9400-423c-11eb-9aa1-40c84f04762c.mp4
+![Grandma_s-Sweet (1)](https://user-images.githubusercontent.com/73755991/102696198-937fda00-423d-11eb-88ad-f4c01646d2e0.gif)
 
 ## Technologies
 * JAVASCRIPT
